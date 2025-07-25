@@ -13,3 +13,8 @@
     "vite": "^4.0.0"
   }
 }
+{
+  "scripts": {
+    "build": "vite build"  // or "react-scripts build"
+  }
+}
